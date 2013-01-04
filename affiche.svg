@@ -24,30 +24,32 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.44785584"
-     inkscape:cx="783.05659"
-     inkscape:cy="699.50409"
+     inkscape:zoom="0.38583845"
+     inkscape:cx="1009.6318"
+     inkscape:cy="1212.0411"
      inkscape:document-units="mm"
      inkscape:current-layer="layer6"
      showgrid="false"
-     inkscape:window-width="1680"
-     inkscape:window-height="994"
+     inkscape:window-width="1280"
+     inkscape:window-height="744"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      borderlayer="true"
      units="mm"
-     inkscape:showpageshadow="false" />
+     inkscape:showpageshadow="false"
+     showguides="true"
+     inkscape:guide-bbox="true" />
   <defs
      id="defs4">
     <filter
        inkscape:collect="always"
-       id="filter5226">
+       id="filter4124">
       <feBlend
          inkscape:collect="always"
          mode="multiply"
          in2="BackgroundImage"
-         id="feBlend5228" />
+         id="feBlend4126" />
     </filter>
   </defs>
   <metadata
@@ -58,7 +60,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -102,56 +104,38 @@
      id="layer3"
      inkscape:label="pict"
      style="opacity:1">
-    <image
-       y="-641.29828"
-       x="-223.92142"
-       id="image3955"
-       xlink:href="file:///home/ludi/wrk/osp.work.acsr-semaine-du-son/materials/semaine%20son%20def/appercu.jpg"
-       height="1817.9067"
-       width="1267.2212" />
-    <image
-       width="511.47153"
-       height="733.73743"
-       xlink:href="file:///home/ludi/wrk/osp.work.acsr-semaine-du-son/materials/semaine%20son%20def/appercu.jpg"
-       id="image4673"
-       x="1503.4811"
-       y="-8.1126289" />
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:none"
        id="rect4675"
        width="311.93893"
        height="887.92578"
-       x="1843.7717"
-       y="-68.33432" />
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:none"
-       id="rect4677"
-       width="587.63599"
-       height="163.08841"
-       x="1478.96"
-       y="877.28998" />
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:none"
-       id="rect5396"
-       width="225.519"
-       height="65.869408"
-       x="523.60602"
-       y="776.74188" />
+       x="1781.5696"
+       y="-153.86235" />
+    <image
+       style="display:inline;filter:url(#filter4124)"
+       y="-769.57635"
+       x="-320.39401"
+       id="image4339"
+       xlink:href="file:///home/ludi/wrk/osp.work.acsr-semaine-du-son/materials/semaine%20son%20def/all-l.tiff"
+       height="2267.2178"
+       width="1581.7954"
+       transform="matrix(0.86635027,0,0,0.86635027,26.570092,37.703653)" />
+    <image
+       transform="matrix(0.32712363,0,0,0.32712363,1708.274,212.94452)"
+       width="1581.7954"
+       height="2267.2178"
+       xlink:href="file:///home/ludi/wrk/osp.work.acsr-semaine-du-son/materials/semaine%20son%20def/all-l.tiff"
+       id="image4465"
+       x="-320.39401"
+       y="-769.57635"
+       style="display:inline;filter:url(#filter4124)" />
   </g>
   <g
      inkscape:label="txt"
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,435.82679)"
-     style="display:inline;">
-    <rect
-       style="color:#000000;fill:none;stroke:#000000;stroke-width:1.99999988;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect3221"
-       width="742.09448"
-       height="348.78741"
-       x="-357.28528"
-       y="-1850.8351"
-       transform="matrix(0,1,-1,0,0,0)" />
+     style="display:inline">
     <flowRoot
        xml:space="preserve"
        id="flowRoot3252"
@@ -168,26 +152,7 @@
          style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:120.00000477%;font-family:Univers Else;-inkscape-font-specification:Univers Else"
          id="flowPara4247">au vendredi 25 janvier 2013</flowPara><flowPara
          style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:120.00000477%;font-family:Univers Else;-inkscape-font-specification:Univers Else"
-         id="flowPara3327" /></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot4204-4"
-       style="font-size:3.3811717px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:condensed;text-indent:0;text-align:start;text-decoration:none;line-height:88.99999857%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Open Sans;-inkscape-font-specification:Open Sans Light Condensed"
-       transform="matrix(11.34299,0,0,111.51132,-15082.947,-17291.463)"><flowRegion
-         id="flowRegion4206-3"><rect
-           id="rect4208-1"
-           width="409.03021"
-           height="339.97092"
-           x="1230.8446"
-           y="158.25099"
-           style="font-size:3.3811717px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:condensed;text-align:start;line-height:88.99999857%;writing-mode:lr-tb;text-anchor:start;font-family:Open Sans;-inkscape-font-specification:Open Sans Light Condensed" /></flowRegion><flowPara
-         id="flowPara3025"
-         style="font-size:3.3811717px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:condensed;text-align:start;line-height:88.99999857%;writing-mode:lr-tb;text-anchor:start;font-family:Open Sans;-inkscape-font-specification:Open Sans Light Condensed">UNE </flowPara><flowPara
-         id="flowPara4242"
-         style="font-size:3.3811717px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:condensed;text-align:start;line-height:88.99999857%;writing-mode:lr-tb;text-anchor:start;font-family:Open Sans;-inkscape-font-specification:Open Sans Light Condensed">SEMAINE </flowPara><flowPara
-         id="flowPara3027"
-         style="font-size:3.3811717px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:condensed;text-align:start;line-height:88.99999857%;writing-mode:lr-tb;text-anchor:start;font-family:Open Sans;-inkscape-font-specification:Open Sans Light Condensed">DE SON… </flowPara><flowPara
-         style="font-size:3.3811717px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:condensed;text-align:start;line-height:88.99999857%;writing-mode:lr-tb;text-anchor:start;font-family:Open Sans;-inkscape-font-specification:Open Sans Light Condensed"
-         id="flowPara4038">RADIO</flowPara></flowRoot>    <text
+         id="flowPara3327" /></flowRoot>    <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="-842.32257"
@@ -256,11 +221,11 @@
        xml:space="preserve"
        id="flowRoot3063"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(2318.1825,917.55789)"><flowRegion
+       transform="translate(2474.8254,1344.5809)"><flowRegion
          id="flowRegion3065"><rect
            id="rect3067"
-           width="660.64514"
-           height="505.80646"
+           width="252.03151"
+           height="279.17102"
            x="-842.32257"
            y="-276.97232" /></flowRegion><flowPara
          id="flowPara3073"
@@ -307,7 +272,7 @@
          style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:120.00000477%;font-family:Univers Else;-inkscape-font-specification:Univers Else">entrée(s) libre(s) et gratuite(s)</flowPara><flowPara
          id="flowPara3976"
          style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:120.00000477%;font-family:Univers Else;-inkscape-font-specification:Univers Else">www.acsr.be</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.48824494,0,0,0.48824494,91.798419,-196.13941)"
+       transform="matrix(0.48823868,-0.00247162,0.00247162,0.48823868,-168.704,-10.767387)"
        style="font-size:81.92609406px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Univers Else;-inkscape-font-specification:Univers Else"
        id="flowRoot3992"
        xml:space="preserve"><flowRegion
@@ -319,11 +284,11 @@
            id="rect3996"
            style="font-size:81.92609406px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Univers Else;-inkscape-font-specification:Univers Else" /></flowRegion><flowPara
          id="flowPara4000"
-         style="font-size:81.92609406px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Univers Else;-inkscape-font-specification:Univers Else">du mardi 22 22222222222</flowPara><flowPara
+         style="font-size:71.68533325px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Univers Else;-inkscape-font-specification:Univers Else">du mardi 22</flowPara><flowPara
          id="flowPara4002"
-         style="font-size:81.92609406px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Univers Else;-inkscape-font-specification:Univers Else" /></flowRoot>    <flowRoot
-       transform="matrix(0.48824494,0,0,0.48824494,-267.89233,-125.82454)"
-       style="font-size:81.92609406px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Univers Else;-inkscape-font-specification:Univers Else"
+         style="font-size:71.68533325px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Univers Else;-inkscape-font-specification:Univers Else" /></flowRoot>    <flowRoot
+       transform="matrix(0.48821445,0.00545573,-0.00545573,0.48821445,-79.116394,95.907337)"
+       style="font-size:71.68533325px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Univers Else;-inkscape-font-specification:Univers Else"
        id="flowRoot4006"
        xml:space="preserve"><flowRegion
          id="flowRegion4008"><rect
@@ -332,13 +297,13 @@
            height="217.88963"
            width="950.80573"
            id="rect4010"
-           style="font-size:81.92609406px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Univers Else;-inkscape-font-specification:Univers Else" /></flowRegion><flowPara
+           style="font-size:71.68533325px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Univers Else;-inkscape-font-specification:Univers Else" /></flowRegion><flowPara
          id="flowPara4014"
-         style="font-size:81.92609406px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Univers Else;-inkscape-font-specification:Univers Else">au vendredi 25 </flowPara><flowPara
+         style="font-size:71.68533325px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Univers Else;-inkscape-font-specification:Univers Else">au vendredi 25 </flowPara><flowPara
          id="flowPara4016"
-         style="font-size:81.92609406px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Univers Else;-inkscape-font-specification:Univers Else" /></flowRoot>    <flowRoot
-       transform="matrix(0.48824494,0,0,0.48824494,-61.307935,35.692665)"
-       style="font-size:81.92609406px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Univers Else;-inkscape-font-specification:Univers Else"
+         style="font-size:71.68533325px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Univers Else;-inkscape-font-specification:Univers Else" /></flowRoot>    <flowRoot
+       transform="matrix(0.48824494,0,0,0.48824494,74.048203,215.49007)"
+       style="font-size:71.68533325px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Univers Else;-inkscape-font-specification:Univers Else"
        id="flowRoot4020"
        xml:space="preserve"><flowRegion
          id="flowRegion4022"><rect
@@ -347,92 +312,25 @@
            height="218.32535"
            width="623.09338"
            id="rect4024"
-           style="font-size:81.92609406px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Univers Else;-inkscape-font-specification:Univers Else" /></flowRegion><flowPara
+           style="font-size:71.68533325px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Univers Else;-inkscape-font-specification:Univers Else" /></flowRegion><flowPara
          id="flowPara4028"
-         style="font-size:81.92609406px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Univers Else;-inkscape-font-specification:Univers Else">janvier 2013</flowPara><flowPara
+         style="font-size:71.68533325px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Univers Else;-inkscape-font-specification:Univers Else">janvier 2013</flowPara><flowPara
          id="flowPara4030"
-         style="font-size:81.92609406px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Univers Else;-inkscape-font-specification:Univers Else" /></flowRoot>    <rect
-       style="fill:#ffffd5;fill-opacity:1;stroke:none"
+         style="font-size:71.68533325px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Univers Else;-inkscape-font-specification:Univers Else" /></flowRoot>    <rect
+       style="fill:#ffff66;fill-opacity:1;stroke:none"
        id="rect4034"
-       width="267.86288"
+       width="190.89157"
        height="1517.4193"
-       x="-76.580673"
+       x="-1.2746781"
        y="-440.28299" />
     <rect
-       style="fill:#ffffd5;fill-opacity:1;stroke:none"
+       style="fill:#ffff66;fill-opacity:1;stroke:none"
        id="rect4036"
-       width="801.03229"
-       height="67.112892"
-       x="276.64517"
-       y="840.66864" />
+       width="802.86493"
+       height="61.614944"
+       x="274.81253"
+       y="842.50128" />
     <flowRoot
-       transform="matrix(2.4043934,0,0,4.0329107,-396.89072,-793.80875)"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:88.99999857%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Dauphine;-inkscape-font-specification:Dauphine"
-       id="flowRoot4040"
-       xml:space="preserve"><flowRegion
-         id="flowRegion4042"><rect
-           style="line-height:88.99999857%"
-           y="158.25099"
-           x="1230.8446"
-           height="339.97092"
-           width="409.03021"
-           id="rect4044" /></flowRegion><flowPara
-         style="font-size:33.83146286px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:start;font-family:Univers Else;-inkscape-font-specification:Univers Else"
-         id="flowPara4046">UNE </flowPara><flowPara
-         id="flowPara4238"
-         style="font-size:33.83146286px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:start;font-family:Univers Else;-inkscape-font-specification:Univers Else">SEMAINE </flowPara><flowPara
-         id="flowPara4050"
-         style="font-size:33.83146286px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:start;font-family:Univers Else;-inkscape-font-specification:Univers Else">DE SON… </flowPara><flowPara
-         id="flowPara4240"
-         style="font-size:33.83146286px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:start;font-family:Univers Else;-inkscape-font-specification:Univers Else">RADIO</flowPara></flowRoot>    <flowRoot
-       inkscape:export-ydpi="300"
-       inkscape:export-xdpi="300"
-       inkscape:export-filename="/home/ludi/wrk/osp.work.acsr-semaine-du-son/titre-test.png"
-       transform="matrix(11.306698,0,0,11.306698,-11758.415,-1062.9791)"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:88.99999857%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ff6600;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Dauphine;-inkscape-font-specification:Dauphine"
-       id="flowRoot4261"
-       xml:space="preserve"><flowRegion
-         id="flowRegion4263"><rect
-           style="line-height:88.99999857%;fill:#ff6600"
-           y="158.25099"
-           x="1230.8446"
-           height="339.97092"
-           width="409.03021"
-           id="rect4265" /></flowRegion><flowPara
-         style="font-size:33.83146286px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#ff6600;font-family:Univers Else;-inkscape-font-specification:Univers Else"
-         id="flowPara4267">Une </flowPara><flowPara
-         style="font-size:33.83146286px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#ff6600;font-family:Univers Else;-inkscape-font-specification:Univers Else"
-         id="flowPara4269">semaine </flowPara><flowPara
-         style="font-size:33.83146286px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#ff6600;font-family:Univers Else;-inkscape-font-specification:Univers Else"
-         id="flowPara4271">de son… </flowPara><flowPara
-         id="flowPara4273"
-         style="font-size:33.83146286px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#ff6600;font-family:Univers Else;-inkscape-font-specification:Univers Else">radio</flowPara></flowRoot>    <image
-       y="134.12973"
-       x="-879.81519"
-       id="image4557"
-       xlink:href="file:///home/ludi/wrk/osp.work.acsr-semaine-du-son/titre-test1.png"
-       height="440.6145"
-       width="480.81024" />
-    <flowRoot
-       transform="matrix(43.378409,0,0,43.378409,-54706.798,-7702.0218)"
-       style="font-size:3.3811717px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:88.99999857%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FonzieLL;-inkscape-font-specification:FonzieLL Medium"
-       id="flowRoot4564"
-       xml:space="preserve"><flowRegion
-         id="flowRegion4566"><rect
-           style="font-size:3.3811717px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:88.99999857%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:FonzieLL;-inkscape-font-specification:FonzieLL Medium"
-           y="158.25099"
-           x="1230.8446"
-           height="339.97092"
-           width="409.03021"
-           id="rect4568" /></flowRegion><flowPara
-         style="font-size:3.3811717px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:88.99999857%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:FonzieLL;-inkscape-font-specification:FonzieLL Medium"
-         id="flowPara4570">UNE </flowPara><flowPara
-         style="font-size:3.3811717px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:88.99999857%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:FonzieLL;-inkscape-font-specification:FonzieLL Medium"
-         id="flowPara4572">SEMAINE </flowPara><flowPara
-         style="font-size:3.3811717px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:88.99999857%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:FonzieLL;-inkscape-font-specification:FonzieLL Medium"
-         id="flowPara4574">DE SON… </flowPara><flowPara
-         id="flowPara4576"
-         style="font-size:3.3811717px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:88.99999857%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:FonzieLL;-inkscape-font-specification:FonzieLL Medium">RADIO</flowPara></flowRoot>    <flowRoot
        transform="matrix(43.378409,0,0,43.378409,-52306.858,-5350.4317)"
        style="font-size:3.3811717px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:88.99999857%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:GFS Olga;-inkscape-font-specification:GFS Olga"
        id="flowRoot4578"
@@ -453,70 +351,70 @@
          id="flowPara4590"
          style="font-size:3.3811717px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:88.99999857%;writing-mode:lr-tb;text-anchor:start;font-family:GFS Olga;-inkscape-font-specification:GFS Olga">RADIO</flowPara></flowRoot>    <text
        xml:space="preserve"
-       style="font-size:106.05843353px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Univers Else;-inkscape-font-specification:Univers Else Ultra-Light"
-       x="-963.90649"
-       y="127.30276"
+       style="font-size:111.70052338px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+       x="-998.92804"
+       y="130.5036"
        id="text4683"
        sodipodi:linespacing="125%"
        transform="matrix(0,-1,1,0,0,0)"><tspan
          sodipodi:role="line"
          id="tspan4685"
-         x="-963.90649"
-         y="127.30276">www.culture1030ecoles.be</tspan></text>
-    <flowRoot
-       transform="matrix(28.131484,0,0,32.554436,-33064.138,-4351.8156)"
-       style="font-size:3.3811717px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:88.99999857%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Univers Else;-inkscape-font-specification:Univers Else"
-       id="flowRoot5271"
-       xml:space="preserve"><flowRegion
-         id="flowRegion5273"><rect
-           style="font-size:3.3811717px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:88.99999857%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;font-family:Univers Else;-inkscape-font-specification:Univers Else"
-           y="158.25099"
-           x="1230.8446"
-           height="339.97092"
-           width="409.03021"
-           id="rect5275" /></flowRegion><flowPara
-         style="font-size:3.3811717px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:88.99999857%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;font-family:Univers Else;-inkscape-font-specification:Univers Else"
-         id="flowPara5279">UNE SEMAINE </flowPara><flowPara
-         style="font-size:3.3811717px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:88.99999857%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;font-family:Univers Else;-inkscape-font-specification:Univers Else"
-         id="flowPara5327">DE SON… RADIO</flowPara></flowRoot>  </g>
+         x="-998.92804"
+         y="130.5036"
+         style="letter-spacing:2.10639596px">www.culture1030ecoles.be</tspan></text>
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="h"
-     style="filter:url(#filter5226)">
+     style="display:inline;filter:url(#filter4124)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4499"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(96.65114,109.33538)"><flowRegion
+         id="flowRegion4501"><rect
+           id="rect4503"
+           width="431.03195"
+           height="249.46169"
+           x="1664.1305"
+           y="578.75903" /></flowRegion><flowPara
+         id="flowPara4505"
+         style="font-size:15px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Univers Else;-inkscape-font-specification:Univers Else">du mardi 22</flowPara><flowPara
+         style="font-size:15px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Univers Else;-inkscape-font-specification:Univers Else"
+         id="flowPara4509">au vendredi 25</flowPara><flowPara
+         style="font-size:15px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Univers Else;-inkscape-font-specification:Univers Else"
+         id="flowPara4511">janvier 2013</flowPara><flowPara
+         id="flowPara4507"
+         style="font-size:15px" /></flowRoot>    <image
+       y="837.14056"
+       x="458.47589"
+       id="image4723"
+       xlink:href="file:///home/ludi/wrk/osp.work.acsr-semaine-du-son/recaptcha3.png"
+       height="532.67426"
+       width="532.67426" />
     <image
-       style="display:inline"
-       y="479.31299"
-       x="1902.6354"
-       id="image4670"
-       xlink:href="file:///home/ludi/wrk/osp.work.acsr-semaine-du-son/titre-test2.png"
-       height="438.34222"
-       width="478.2785" />
-    <image
-       y="645.77643"
-       x="384.37402"
-       id="image5393"
-       xlink:href="file:///home/ludi/wrk/osp.work.acsr-semaine-du-son/titre-test3.png"
-       height="876.93237"
-       width="956.82745" />
-    <image
-       width="472.29654"
-       height="432.85977"
-       xlink:href="file:///home/ludi/wrk/osp.work.acsr-semaine-du-son/titre-test3.png"
-       id="image5398"
-       x="1487.4076"
-       y="455.7164" />
+       y="437.65732"
+       x="1573.9965"
+       id="image4728"
+       xlink:href="file:///home/ludi/wrk/osp.work.acsr-semaine-du-son/recaptcha3.png"
+       height="321.03943"
+       width="321.03943" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="cash"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <path
-       style="fill:#cccccc;fill-opacity:1;stroke:none"
+       style="fill:#ececec;fill-opacity:1;stroke:none"
        d="m -277.04422,-281.72725 0,2043.78125 1640.84372,0 0,-2043.78125 -1640.84372,0 z M 0.330776,-0.602249 l 1052.343724,0 0,1488.187449 -1052.343724,0 0,-1488.187449 z"
        id="rect3961"
        inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#f2f2f2;fill-opacity:1;stroke:none;display:inline"
+       d="m 1340.0478,-200.52806 0,1304.00006 821.6875,0 0,-1304.00006 -821.6875,0 z m 226.0938,247.218746 348.8124,0 0,742.093754 -348.8124,0 0,-742.093754 z"
+       id="rect4462" />
   </g>
 </svg>
